@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+.env
+
+# PyQt 빌드 산출물
+/dist/
+/build/
+
+# 번역 API 키 파일
+*.json
